@@ -7,7 +7,6 @@ A cross-platform tool for capturing visitor IP addresses and geolocation data th
 - Capture visitor IPs with geolocation
 - View detailed visitor information
 - Export data to JSON/CSV
-- Dark mode UI
 
 ## Installation
 Windows:
